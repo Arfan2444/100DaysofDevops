@@ -74,7 +74,7 @@ This is a personal journey, but if you spot improvements in documentation, feel 
 
 🐦 Twitter
 
-📧 Email: yourname@example.com
+📧 Email: tricks7er244@gmail.com
 
 ⭐ If you find this repo helpful, give it a star and follow my journey!
 ```bash
